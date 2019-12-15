@@ -43,4 +43,8 @@ Your goal is to fix the code changing the code as little as possible. Obviously 
 3. Scoring won't take into account any kind of working code. The goal is to spot bugs and fix them (obviusly this will transform the failing code into working code).
 
 ## Hints
-There are basically 4 bugs in this code. The 4th is kind of tricky, you must spot the 4 of them in order to score 1 full point, but also be aware of your available time, it's better to upload 3 bugs than nothing.
+There are basically 4 bugs in this code. You must spot the 4 of them in order to score all the points, but also be aware of your available time, it's better to upload 3 bugs than nothing.
+Scoring criteria:
+- 60%: Spot all the bugs
+- 20%: Fix all the bugs and push the proposed solution to your repository online
+- 20%: Explain the solved exercise in the README, in the best possible way
