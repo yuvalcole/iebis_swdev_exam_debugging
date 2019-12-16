@@ -16,7 +16,9 @@ switch (random.nextInt(3))
 
 The last bug was it wasn't appending the letters intended but just creating new StringBuffers. After changing it to append I had to break after each case was completed.
 
+ 
  switch (random.nextInt(3)) {
+ 
             case 0:
                 word = word.append("Y");
                 break;
